@@ -1,11 +1,23 @@
 #AnyKKK
 
+# Gradle files
+.gradle/
 # Built application files
 build/
 
+# User-specific configurations
+*.iml
 # Files for the ART/Dalvik VM
 *.dex
 
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
